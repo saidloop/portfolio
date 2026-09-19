@@ -10,7 +10,7 @@ import ArrowLeft from "../icons/arrow-left.astro";
 >
   <label
     for="experience-drawer"
-    aria-label="close sidebar"
+    aria-label="cerrar barra lateral"
     class="drawer-overlay"></label>
   <div
     class="bg-stone-100 min-h-full lg:w-2/4 md:w-full sm:w-full p-10 relative"
@@ -20,7 +20,7 @@ import ArrowLeft from "../icons/arrow-left.astro";
     >
       <label
         for="experience-drawer"
-        aria-label="close sidebar"
+        aria-label="cerrar barra lateral"
         data-ccursor
         class="flex items-center justify-center rounded-md group"
       >
@@ -29,22 +29,21 @@ import ArrowLeft from "../icons/arrow-left.astro";
       <a
         data-ccursor
         class="leading-tight font-semibold group p-2 rounded px-3 text-pink-400 sm:text-zinc-600 sm:hover:text-pink-400"
-        aria-label="View Resume"
+        aria-label="Ver CV"
         target="_blank"
         rel="noreferrer noopener"
-        aria-label="View Resume"
         href="https://acrobat.adobe.com/id/urn:aaid:sc:US:f7cb3962-ea74-42f7-a665-ad3ff5cc29ca"
         data-umami-event="View Resume click"
         id="resume"
       >
-        <span class="font-roboto-condensed font-semibold">View Resume</span
+        <span class="font-roboto-condensed font-semibold">Ver CV</span
         >
       </a>
     </div>
     <section
       id="experience"
       class="mt-10 mb-16 scroll-mt-16 md:mb-24 lg:mb-36 lg:scroll-mt-24"
-      aria-label="Work experience"
+      aria-label="Experiencia laboral"
     >
       <ol class="group/list space-y-12">
         {EXPERIENCE.map((experience) => <Experience {...experience} />)}

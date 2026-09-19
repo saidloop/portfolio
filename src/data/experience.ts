@@ -2,12 +2,12 @@ import type { ExperienceProps } from "../types/experience.props";
 
 export const EXPERIENCE: ExperienceProps[] = [
   {
-    dates: "Octuber 2024 — Present",
-    title: "Wordpress Developer",
-    company: "Orbidi (Remote)",
+    dates: "Octubre 2024 — Presente",
+    title: "Desarrollador WordPress",
+    company: "Orbidi (Remoto)",
     companyUrl: "https://www.orbidi.com/",
     description:
-      "Contributed to the development of custom marketing and campaign websites using WordPress and Elementor. Designed responsive landing pages optimized for conversion, applying best practices in UI/UX. Integrated WooCommerce stores with payment gateways and automated email workflows. Managed dynamic content using ACF and JetEngine, building portfolio and directory systems. Led the implementation of a headless CMS architecture with WordPress as backend and Astro/React as frontend. Executed SEO improvements using Semrush and Google Search Console, resulting in a 40% increase in organic traffic. Participated in CRM integrations and email marketing automation",
+      "Participé en el desarrollo de sitios de marketing y campañas personalizados con WordPress y Elementor. Diseñé landing pages responsivas optimizadas para conversión, aplicando buenas prácticas de UI/UX. Integré tiendas WooCommerce con pasarelas de pago y flujos automatizados de correo. Gestioné contenido dinámico con ACF y JetEngine, creando sistemas de portafolio y directorios. Lideré la implementación de una arquitectura headless con WordPress como backend y Astro/React como frontend. Ejecuté mejoras de SEO con Semrush y Google Search Console, logrando un aumento del 40 % en tráfico orgánico. También participé en integraciones CRM y automatización de email marketing.",
     technologies: [
       "JavaScript",
       "TypeScript",
@@ -29,14 +29,13 @@ export const EXPERIENCE: ExperienceProps[] = [
     ],
     logo: "/images/orbidi.webp",
   },
-
-       {
+  {
     dates: "",
     title: "",
     company: "Joan Clement",
     companyUrl: "https://www.joanclement.com/",
     description:
-      "Developed a custom WordPress website for Joan Clement, integrating a dynamic blog and an interactive event calendar tailored for client engagement. Built the interface using Elementor and styled components with custom CSS to ensure a consistent and responsive design across devices. Leveraged JetEngine to manage dynamic content and display the user’s agenda in a structured, client-friendly format. Enhanced user interaction with JavaScript and optimized the site for performance and usability, delivering a functional and visually cohesive digital presence.",
+      "Desarrollé un sitio web personalizado en WordPress para Joan Clement, integrando un blog dinámico y un calendario de eventos interactivo pensado para involucrar a los clientes. Construí la interfaz con Elementor y estilización personalizada con CSS para mantener un diseño consistente y responsivo en distintos dispositivos. Usé JetEngine para gestionar contenido dinámico y mostrar la agenda del usuario de forma ordenada y amigable. Mejoré la interacción con JavaScript y optimicé el sitio para rendimiento y usabilidad, entregando una presencia digital funcional y visualmente cohesiva.",
     technologies: [
       "wordpress",
       "Elementor",
@@ -54,7 +53,7 @@ export const EXPERIENCE: ExperienceProps[] = [
     company: "conducetusemociones",
     companyUrl: "https://www.conducetusemociones.pro/",
     description:
-      "Developed a custom WordPress website for a clinical psychologist to clearly showcase her services and areas of specialization. Designed the site using Elementor with a clean, accessible layout focused on clarity and trust-building. Structured content with JetEngine to present detailed service pages and enable easy updates by the client. Applied custom CSS and JavaScript enhancements to improve user experience, responsiveness, and navigation across devices..",
+      "Desarrollé un sitio web personalizado en WordPress para una psicóloga clínica para mostrar claramente sus servicios y áreas de especialización. Diseñé el sitio con Elementor y una estructura limpia y accesible centrada en la claridad y la confianza. Organicé el contenido con JetEngine para presentar páginas detalladas de servicios y facilitar actualizaciones por parte del cliente. Apliqué mejoras con CSS y JavaScript para mejorar la experiencia de usuario, la respuesta móvil y la navegación.",
     technologies: [
       "wordpress",
       "Elementor",
@@ -66,19 +65,18 @@ export const EXPERIENCE: ExperienceProps[] = [
       "SEO",
     ],
   },
-   
   {
-    dates: "June 2023 — August 2024",
-    title: "WordPress Developer",
-    company: "Flywarelabs (Remote)",
+    dates: "Junio 2023 — Agosto 2024",
+    title: "Desarrollador WordPress",
+    company: "Flywarelabs (Remoto)",
     companyUrl: "https://flywarelabs.com/",
     description:
-      "Developed custom WordPress themes using Elementor, ACF, and PHP. Built interactive widgets and forms. Integrated RESTful APIs via cURL and Postman to connect external services and improve site functionality. Applied SEO strategies through Yoast SEO and monitored performance using Google Analytics and Search Console. Ensured high-quality code delivery, optimized site speed, and maintained responsive layouts across devices.",
+      "Desarrollé temas personalizados en WordPress con Elementor, ACF y PHP. Construí widgets interactivos y formularios. Integré APIs REST mediante cURL y Postman para conectar servicios externos y mejorar la funcionalidad de los sitios. Apliqué estrategias SEO con Yoast SEO y monitoreé el rendimiento con Google Analytics y Search Console. Garanticé entregas de alta calidad, optimicé la velocidad del sitio y mantuve layouts responsivos en todos los dispositivos.",
     technologies: [
       "JavaScript",
       "TypeScript",
       "PHP",
-      "CSS", 
+      "CSS",
       "HTML",
       "YOAST SEO",
       "Google Analytics",
@@ -101,12 +99,12 @@ export const EXPERIENCE: ExperienceProps[] = [
     company: "city experiences",
     companyUrl: "https://www.cityexperiences.com/",
     description:
-      "Developed custom WordPress themes using Elementor, ACF, and PHP. Built interactive widgets and forms. Integrated RESTful APIs via cURL and Postman to connect external services and improve site functionality. Applied SEO strategies through Yoast SEO and monitored performance using Google Analytics and Search Console. Ensured high-quality code delivery, optimized site speed, and maintained responsive layouts across devices.",
-    technologies: [      
+      "Desarrollé temas personalizados en WordPress con Elementor, ACF y PHP. Construí widgets interactivos y formularios. Integré APIs REST mediante cURL y Postman para conectar servicios externos y mejorar la funcionalidad. Apliqué estrategias SEO con Yoast SEO y monitoreé el rendimiento con Google Analytics y Search Console. Garanticé entregas de alta calidad, optimicé la velocidad del sitio y mantuve diseños responsivos en distintos dispositivos.",
+    technologies: [
       "JavaScript",
       "TypeScript",
       "PHP",
-      "CSS", 
+      "CSS",
       "HTML",
       "YOAST SEO",
       "Google Analytics",
@@ -120,16 +118,15 @@ export const EXPERIENCE: ExperienceProps[] = [
       "cURL",
       "React",
       "PostgreSQL",
-      
     ],
   },
   {
-    dates: "March 2023 — June 2023",
-    title: "Freelance WordPress Developer",
+    dates: "Marzo 2023 — Junio 2023",
+    title: "Desarrollador WordPress Freelance",
     company: "GB Analytics",
     companyUrl: "https://gb-analytics.com/",
     description:
-      "Collaborated with the marketing team to build contact pages using Elementor, focusing on user flow and lead generation. Enhanced form deliverability by configuring SMTP protocols and implemented Yoast SEO tools for better indexing. Delivered efficient and responsive components, ensuring compatibility with desktop and mobile interfaces.",
+      "Colaboré con el equipo de marketing para crear páginas de contacto con Elementor, enfocándome en el flujo del usuario y la generación de leads. Mejoré la entrega de formularios configurando protocolos SMTP e implementé herramientas de Yoast SEO para una mejor indexación. Entregué componentes eficientes y responsivos, asegurando compatibilidad en escritorio y móvil.",
     technologies: [
       "Wordpress",
       "Elementor",
@@ -137,15 +134,14 @@ export const EXPERIENCE: ExperienceProps[] = [
       "SMTP",
       "Figma",
     ],
-    
   },
   {
-    dates: "April 2023 — June 2023",
-    title: "Freelance WordPress Developer",
+    dates: "Abril 2023 — Junio 2023",
+    title: "Desarrollador WordPress Freelance",
     company: "Mima2",
     companyUrl: "https://mima2colombia.com/",
     description:
-      "Designed and developed custom layouts with WPBakery, focusing on mobile responsiveness and design consistency. Configured WooCommerce product catalogs, integrated payment gateways for secure transactions, and set up email automation workflows for order confirmations and marketing. Improved overall website performance using W3 Total Cache, optimized loading speed, and ensured cross-browser compatibility.",
+      "Diseñé y desarrollé layouts personalizados con WPBakery, enfocándome en la responsividad móvil y la consistencia visual. Configuré catálogos de WooCommerce, integré pasarelas de pago para transacciones seguras y configuré automatizaciones de correo para confirmaciones de pedidos y marketing. Mejoré el rendimiento general del sitio usando W3 Total Cache, optimicé la velocidad de carga y aseguré compatibilidad entre navegadores.",
     technologies: [
       "Wordpress",
       "WPBakery",
@@ -158,13 +154,13 @@ export const EXPERIENCE: ExperienceProps[] = [
       "SMTP",
     ],
   },
-    {
-    dates: "January 2023 — May 2023",
-    title: "Freelance Developer",
+  {
+    dates: "Enero 2023 — Mayo 2023",
+    title: "Desarrollador Freelance",
     company: "Bloem Life",
     companyUrl: "https://www.bloem-life.com/technology",
     description:
-      "Designed and deployed a corporate website, ensuring alignment with the company’s branding and communication goals. Performed regular site maintenance and implemented on-page SEO strategies to enhance visibility. Focused on improving user experience and maintaining fast loading speeds and media optimization.",
+      "Diseñé y desplegué un sitio corporativo, asegurando que alineara la identidad de marca y los objetivos de comunicación de la empresa. Realicé mantenimiento constante del sitio e implementé estrategias de SEO on-page para mejorar la visibilidad. Me enfoqué en mejorar la experiencia de usuario y mantener velocidades rápidas de carga y optimización de medios.",
     technologies: [
       "HTML",
       "CSS",
@@ -172,5 +168,4 @@ export const EXPERIENCE: ExperienceProps[] = [
       "React",
     ],
   },
- 
 ];
